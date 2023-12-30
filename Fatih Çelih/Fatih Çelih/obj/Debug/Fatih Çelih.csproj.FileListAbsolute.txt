@@ -1,0 +1,11 @@
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\bin\Debug\Fatih Çelih.exe.config
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\bin\Debug\Fatih Çelih.exe
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\bin\Debug\Fatih Çelih.pdb
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih Çelih.csproj.AssemblyReference.cache
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih Çelih.csproj.SuggestedBindingRedirects.cache
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih_Çelih.Form1.resources
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih_Çelih.Properties.Resources.resources
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih Çelih.csproj.GenerateResource.cache
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih Çelih.csproj.CoreCompileInputs.cache
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih Çelih.exe
+C:\Users\okank\OneDrive\Masaüstü\Fatih Çelih\Fatih Çelih\obj\Debug\Fatih Çelih.pdb
